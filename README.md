@@ -12,3 +12,5 @@ analog 3-axis accelerometer, LSM303D breakout board
 Install [Racket](https://racket-lang.org/) on the Pi, then:
 
     racket led-matrix/patterns.rkt
+
+The code was fully written in Scheme (DrRacket).
